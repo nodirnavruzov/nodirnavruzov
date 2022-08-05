@@ -29,6 +29,8 @@
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building applications.
 
+- 💡 I'm currently learning Dart.
+
 - :zap: In my free time, I spend time with my family, friends, watch movies, read tech articles and play Dota2.
 
 - :mailbox:If you want to talk about programming, coding, software engineering, or anything else, drop me a line [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nodir-navruzov/) [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/genesis_ftw)
