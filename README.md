@@ -33,7 +33,7 @@
 
 - :zap: In my free time, I spend time with my family, friends, watch movies, read tech articles and play Dota2.
 
-- :mailbox:If you want to talk about programming, coding, software engineering, or anything else, drop me a line [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nodir-navruzov/) [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/genesis_ftw)
+- :mailbox: If you want to talk about programming, coding, software engineering, or anything else, drop me a line [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nodir-navruzov/) [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/genesis_ftw)
 
 ### :hammer_and_wrench: Languages and Tools :
 
