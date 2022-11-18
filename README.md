@@ -29,7 +29,7 @@
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building applications.
 
-- 💡 I'm currently learning Typescript.
+- 💡 I'm currently learning Living.
 
 - :zap: In my free time, I spend time with my family, friends, watch movies, read tech articles and play Dota2.
 
