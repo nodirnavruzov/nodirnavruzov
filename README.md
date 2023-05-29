@@ -8,7 +8,7 @@
   <a href="https://www.instagram.com/navruzov_n_k/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://t.me/genesis_ftw">
+  <a href="https://t.me/genesis_1337">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
